@@ -1,0 +1,11 @@
+Youtube Videos : 
+Time Series Playlist by Aric LaBarr : https://www.youtube.com/watch?v=FsroWpkUuYI&list=PLjwX9KFWtvNnOc4HtsvaDf1XYG3O5bv5s
+
+Article:
+Bitcoin Price Prediction by Coingecko : https://www.coingecko.com/learn/bitcoin-price-prediction-machine-learning
+Datacamp ARIMA for Time Series Forecasting : https://www.datacamp.com/tutorial/arima
+
+
+P2:
+
+1) Kaggle notebook for Llama 3.1 (8B) By Daniel Han : https://www.kaggle.com/code/danielhanchen/kaggle-llama-3-1-8b-unsloth-notebook
